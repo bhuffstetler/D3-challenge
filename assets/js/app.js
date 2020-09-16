@@ -1,4 +1,4 @@
-// Define SVG area dimensions
+// Define SVG area dimension
 var svgWidth = 960;
 var svgHeight = 500;
 
